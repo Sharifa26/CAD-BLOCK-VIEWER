@@ -20,16 +20,16 @@
 
 https://github.com/Sharifa26/CAD-Block-Viewer-Backend
 
-where you can fine the backend repository setup instructions,Installation and Configuration , Database Schema and API Documentation.
+where you can the backend repository setup instructions,Installation and Configuration , Database Schema and API Documentation.
 
 
 <h3> 💻Frontend Repository</h3>
 
 https://github.com/Sharifa26/CAD-Block-Viewer-Frontend
 
-where you can fine the frontend repository setup instructions, and how to run the project.
+where you can the Find  frontend repository setup instructions, and how to run the project.
 
-## 📦 Reasoning Behind Library Choices
+## <a id="libraries">📚 Libraries Used</a>
 
 ### 🧠 Backend
 
@@ -48,7 +48,7 @@ where you can fine the frontend repository setup instructions, and how to run th
 
 
 
-## 🧗‍♀️ Challenges Faced & Solutions
+## <a id="challenges">📝 Challenges</a>
 
 | Challenge                          | Solution                                                                                      |
 |-----------------------------------|-----------------------------------------------------------------------------------------------|
@@ -60,7 +60,7 @@ where you can fine the frontend repository setup instructions, and how to run th
 
 ---
 
-## 🤖 How AI Coding Assistants Helped
+## <a id="ai">🤖 Use of AI Coding Assistants</a>
 
 AI coding assistants (like ChatGPT and GitHub Copilot) were instrumental in:
 - Drafting logic for parsing DXF blocks and handling JSON data structures.
