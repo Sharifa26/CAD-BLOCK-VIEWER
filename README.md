@@ -20,14 +20,14 @@
 
 https://github.com/Sharifa26/CAD-Block-Viewer-Backend
 
-where you can the backend repository setup instructions,Installation and Configuration , Database Schema and Unit testing.
+where you can find the backend repository setup instructions,Installation and Configuration , Database Schema and Unit testing.
 
 
 <h3> 💻Frontend Repository</h3>
 
 https://github.com/Sharifa26/CAD-Block-Viewer-Frontend
 
-where you can the Find  frontend repository setup instructions, and how to run the project.
+where you can the find  frontend repository setup instructions, and how to run the project.
 
 ## <a id="libraries">📚 Libraries Used</a>
 
